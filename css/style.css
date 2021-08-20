@@ -372,16 +372,17 @@
         text-align: right;
         font-size: 14px;
         line-height: 17px;
+        position: relative;
     }
     
     .special-offer__old-price::before {
         content: " ";
         position: absolute;
         width: 68px;
-        height: 3px;
+        height: 1px;
         background-color: #CB0E0E;
         top: 7px;
-        left: 0;
+        right: 0;
         transform: rotate(15deg);
     }
     
