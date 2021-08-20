@@ -75,7 +75,7 @@ body {
 
 .header {
   background-image: url(../images/header_bg.jpg);
-  background-position: center;
+  background-position: top center;
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -180,7 +180,7 @@ body {
 
 .about {
   background-image: url(../images/about_bg.png);
-  background-position:  center;
+  background-position: top center;
   background-repeat: no-repeat;
   background-size: cover;
 }
