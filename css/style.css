@@ -374,6 +374,17 @@
         line-height: 17px;
     }
     
+    .special-offer__old-price::before {
+        content: " ";
+        position: absolute;
+        width: 68px;
+        height: 10px;
+        background-color: #CB0E0E;
+        top: 0;
+        left: 0;
+        transform: rotate(15deg);
+    }
+    
     .special-offer__new-price {
         font-size: 48px;
         line-height: 57px;
