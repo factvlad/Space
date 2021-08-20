@@ -275,7 +275,8 @@ body {
 }
 
 .how-to__box circle,
-.how-to__box text {
+.how-to__box text,
+foreignObject {
     transition: all .5s;
     cursor: pointer;
     font-size: 18px;
@@ -289,4 +290,13 @@ body {
 .how-to__box g:hover text {
     fill: #036cca;
     font-size: 36px;
+}
+
+.how-to__box g:hover foreignObject {
+    color: #036cca;
+    font-size: 23px;
+}
+
+foreignObject {
+    text-align: left;
 }
