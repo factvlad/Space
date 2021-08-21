@@ -75,6 +75,7 @@
         background-position: top center;
         background-repeat: no-repeat;
         background-size: cover;
+        padding-bottom: 150px;
     }
     
     .header__inner {
