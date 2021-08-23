@@ -1,4 +1,4 @@
-  ![](https://github.com/factvlad/note-creater/blob/master/note-creater.gif)
+  ![](https://github.com/factvlad/Space/blob/master/images/space-market.png)
   
   In this project I mastered:
  - HTML/CSS
